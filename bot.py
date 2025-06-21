@@ -1,6 +1,6 @@
 import praw
 import config
-import time
+import time 
 import os
   
 def bot_login():
